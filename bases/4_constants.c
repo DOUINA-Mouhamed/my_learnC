@@ -18,7 +18,8 @@ int main (void)
     a = 5 + a;
 
     const int b = 2;
-    //b = 2;                        // vous pouvez ici enlever le premier commentaire et vous allez voir que le programme ne compile pas lorsqu'il y a un changement de constante
+    //b = 2;                        // vous pouvez ici enlever le premier commentaire et vous allez 
+                                    // voir que le programme ne compile pas lorsqu'il y a un changement de constante
 
     printf("%d\n", a);
     printf("%d\n", b);
