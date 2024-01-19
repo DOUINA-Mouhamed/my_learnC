@@ -9,12 +9,12 @@ Solution à l'exercice "1_my_circumference"
 int main(void)
 {
     const double PI = 3.14159;
-    double D;
+    double radius;
 
     printf("Enter the radius of your circle : ");
-    scanf("%lf", &D);
+    scanf("%lf", &radius);
 
-    double C = PI * D;
+    double C = PI * (2*radius);
 
     printf("\nThe circumference is : %0.2lf\n", C);
     return 0;
