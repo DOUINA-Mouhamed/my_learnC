@@ -13,7 +13,7 @@ gcc -o user_input 6_user_input.c
 
 int main(void)
 {
-    char name[25];                          // bytes | 25 charactères maximum
+    char name[25];                          // 25 bytes | 25 charactères maximum
     int age;
 
     printf("What's your name ?\n");

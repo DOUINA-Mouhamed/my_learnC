@@ -24,7 +24,7 @@ int main (void)
     double I = cos(45);     // cosinus
     double J = tan(45);     // tangente
 
-    //printf([...]); vous pouvez maintenant faire vous test vous mêmes !
+    //printf([...]); vous pouvez maintenant faire vos test vous mêmes !
     
     return 0;
 }
