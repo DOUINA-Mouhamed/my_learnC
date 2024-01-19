@@ -1,3 +1,9 @@
+/*
+
+Solution à l'exercice "my_hypotenuse"
+
+*/
+
 #include <stdio.h>
 #include <math.h>
 
