@@ -1,6 +1,6 @@
 /*
 
-Solution à l'exercice "1_my_circumference"
+Solution à l'exercice "my_circumference"
 
 */
 
