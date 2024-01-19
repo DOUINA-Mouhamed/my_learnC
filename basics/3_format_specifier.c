@@ -13,7 +13,7 @@ gcc -o format_specifier 3_format_specifier
 
 int main (void)
 {
-    // format specifier % = définie et formate un type de data qui va être displayed
+    // format specifier % = définie et formate un type de data qui va être affiché
 
     // %c = charactère
     // %s = string
