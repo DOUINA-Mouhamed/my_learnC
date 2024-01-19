@@ -7,7 +7,7 @@ You will be discovering new things and simple concepts you have not seen in the 
 
 You are not advised to take this course, and you should wait after your pool to do it. You will have to install a gcc compiler, or even switch to linux if you can't do it on Windows. Moreover, you will have to learn about compiling a program and learning how a terminal works. {EPITECH} will teach you all of this in your first days of pool.
 
-**Here is the roadmap of this repository**
+## Here is the roadmap of this repository
 
 * Step 1 : In the ```basics``` repository, you will take your first step into your revisions or your learning of C. It is not a step that would be time consumming, but it is always important to go back to the basics to consolidate all of your knowledge.
 
