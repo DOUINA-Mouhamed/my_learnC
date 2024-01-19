@@ -3,7 +3,9 @@
 
 You will be discovering new things and simple concepts you have not seen in the pool that might interest you. Moreover,  further in the year, this repository can be a tool for you to exercise over concepts you may have forgotten about. It is composed of easy mini-projects such as a terminal tic-tac-toe game, or even mathematics projects such as calculating the circumference of a circle. It contains important reminder of how a pointer works, for example, or how to deal with struct and reading files 🗞️.
 
-**If you want to integrate Epitech** you are not advised to take this course, and you should wait after your pool to do it. You will have to install a gcc compiler, or even switch to linux if you can't do it on Windows. Moreover, you will have to learn about compiling a program and learning how a terminal works. {EPITECH} will teach you all of this in your first days of pool.
+## If you want to integrate Epitech
+
+You are not advised to take this course, and you should wait after your pool to do it. You will have to install a gcc compiler, or even switch to linux if you can't do it on Windows. Moreover, you will have to learn about compiling a program and learning how a terminal works. {EPITECH} will teach you all of this in your first days of pool.
 
 **Here is the roadmap of this repository**
 
