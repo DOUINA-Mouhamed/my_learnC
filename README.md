@@ -7,4 +7,4 @@ You will be discovering new things and simple concepts you have not seen in the 
 
 * Step 1 : In the ```basics``` repository, you will take your first step into your revisions or your learning of C. It is not a step that would be time consumming, but it is always important to go back to the basics to consolidate all of your knowledge.
 
-* Step 2 : You're done consolidating your knowledge 🥳 ! After finishing the ```basics``` repository, you can start practising the skills you have obtained to make two easy exercices that are mathematic related : ```1_my_circumferense.txt``` and ```2_my_hypotenuse.txt``` 📐.
+* Step 2 : You're done consolidating your knowledge 🥳 ! After finishing the ```basics``` repository, you can start practising the skills you have obtained to make two easy exercices that are mathematic related : ```1_my_circumferense.txt``` and ```2_my_hypotenuse.txt``` 📐. You can find the corrections in the ```mini-projects``` repository, but I advice you to really try to make it on your own ! You can do it for sure ✔️.
