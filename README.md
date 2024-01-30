@@ -13,6 +13,8 @@ You have multiple directories in this repo. First you will have to clone it usin
 
 ## Here is the roadmap of this repository
 
+### Part 1
+
 * Step 1 : In the ```basics``` directory, you will take your first step into your revisions or your learning of C. It is not a step that would be time consumming, but it is always important to go back to the basics in order to consolidate all of your knowledge.
 
 * Step 2 : You're done consolidating your knowledge 🥳 ! After finishing the ```basics``` directory, you can start using the skills you have obtained to make two easy exercices that are mathematic related : ```my_circumferense.pdf``` and ```my_hypotenuse.pdf``` 📐. Those pdf files can be found in the ```exercises``` directory. You can find the corrections in the ```mini-projects``` directory, but I advice you to really try to make it on your own ! You can do it for sure ✔️.
