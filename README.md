@@ -9,7 +9,7 @@ You are not advised to take this course, and you should wait after your pool to 
 
 ## How it works
 
-You have multiple directories in this repo. First you will have to clone it using the ```git clone``` command. Secondly, you see that there is an empty directory called "my_mini-projects". You will create your C files here when you arrive at the ```exercises``` step 💻.
+You have multiple directories in this repo. First you will have to clone it using the ```git clone``` command. Secondly, you can see that there is an empty directory called ```my_mini_projects```. You will create your C files here when you arrive at the ```exercises``` step 💻.
 
 ## Here is the roadmap of this repository
 
