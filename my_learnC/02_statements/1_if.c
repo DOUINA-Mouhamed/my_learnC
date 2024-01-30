@@ -36,6 +36,15 @@ int user_input(void)
     }
 }
 
+/*
+
+if (*condition*)
+{
+    *code*
+}
+
+*/
+
 int main(void)
 {
     bank_message();         // Appel de la première fonction
