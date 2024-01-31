@@ -41,6 +41,7 @@ int user_input(void)
 if (*condition*)
 {
     *code*
+    return 84; // Si c'est une condition d'erreur
 }
 
 */
