@@ -23,7 +23,7 @@ int user_input(void)
     
     printf("Enter your age : ");
     scanf("%d", &i);
-    if (i < 18 && i >= 0) { // Première condition d'erreur
+    if (i < 18 && i >= 0) { // Première condition d'erreur, && = "et"
         printf("You are not allowed to sign up to our program.\n");
         return 84;
     }
