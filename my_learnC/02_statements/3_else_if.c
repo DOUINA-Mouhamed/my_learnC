@@ -53,7 +53,7 @@ if (*condition*)
 
 int main(void)
 {
-    bank_message();         // Appel de la première fonction
-    user_input();           // Appel de la seconde fonction
-    return 0;               // Réussite
+    bank_message();
+    user_input();           
+    return 0;               
 }
