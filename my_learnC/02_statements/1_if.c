@@ -1,6 +1,6 @@
 /*
 
-Un simple programme utilisons des if comme 
+Un simple programme utilisant des if comme 
 des conditions d'erreurs ou de réussite !
 
 Compilation :
