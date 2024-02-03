@@ -26,8 +26,6 @@ int my_temp(void)
         printf("The temperature unit is wrong.\n");
         return 84;
     }
-
-
 }
 
 int main(void)
