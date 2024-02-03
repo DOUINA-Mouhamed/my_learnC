@@ -13,6 +13,9 @@ int prices()
         p = 10.99;
     } else if (age < 13 && age >= 0) {
         p = 4.99;
+    } else {
+        printf("Error occured when scanning for age.\n");
+        return 84;
     }
     printf("Price will be %0.2f$\n", p);
     
@@ -25,6 +28,11 @@ int prices()
         p = p + 4;
     } else if (popcorn == 3) {
         p = p + 6;
+    } else if (popcorn == 0) {
+        p;
+    } else {
+        printf("You are asking for a wrong amount of popcorn.\n");
+        return 84;
     }
     
     printf("Total price is %0.2f$\n", p);
