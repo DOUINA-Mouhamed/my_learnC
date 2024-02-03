@@ -22,3 +22,5 @@ You have multiple directories in this repo. First you will have to clone it usin
 * Step 3 : You have finished your mini-projects, and now you can finally step into the ['statements'](my_learnC/02_statements) directory. This repositery marks the end of the easiest side of this repository and now you are truly starting to be a C amateur 😉. This directory is shorter than the last one but stay focus ! After you are sure you've understood perfectly how ```if``` and ```switch``` statements works you can head to the next directory ['basicMakefile'](my_learnC/03_basicMakefile).
 
 * Step 4 : Before heading to the next exercices, you should complete the ```basicMakefile``` tutorial to understand how to make one, because you are going to write a Makefile for every next ['exercices'](exercises).
+
+* Step 5 : You're a rocket 🚀 ! Now that you are able to write a short Makefile without even using internet or the man, you can head to the next exercices to practise even more ! ['my_ticket'](exercises/03_my_ticket.pdf) and ['my_temp'](exercices/04_my_temp.pdf) are the next exercises you should complete before starting the ```Part 2``` of your journey.
