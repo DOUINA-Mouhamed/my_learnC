@@ -7,7 +7,7 @@ You will be discovering new things and simple concepts you have not seen in the 
 
 You have multiple directories in this repo. First you will have to clone it using the ```git clone``` command. Secondly, you can see that there is an empty directory called ['my_mini_projects'](my_mini_projects). You will create your C files here when you arrive at the ['exercises'](exercises) step 💻.
 
-## Here is the roadmap of this repository
+## Roadmap 📰
 
 ### Part 1: Basics of C Programming
 
