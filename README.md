@@ -13,7 +13,7 @@ You have multiple directories in this repo. First you will have to clone it usin
 
 ## Here is the roadmap of this repository
 
-### Part 1
+### Part 1: Basics of C Programming
 
 * Step 1 : In the ['basics'](my_learnC/01_basics) directory, you will take your first step into your revisions or your learning of C. It is not a step that would be time consumming, but it is always important to go back to the basics in order to consolidate all of your knowledge.
 
