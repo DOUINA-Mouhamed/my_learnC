@@ -21,7 +21,7 @@ int main(void)
     if (temp >= 0 && temp <= 30 && sunny) {     // '&& sunny' = si sunny est vrai, dans ce cas là il est faux  
         printf("The weather is good!\n");
     } else {
-        printf("The weather is  bad!\n");
+        printf("The weather is bad!\n");
     }
 
     return 0;
