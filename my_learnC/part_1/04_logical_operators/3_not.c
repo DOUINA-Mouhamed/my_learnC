@@ -16,7 +16,7 @@ int main(void)
     // ! prend l'état inverse d'une condition
     
     float temp = 25;
-    bool sunny = true;                         // Initialisation de booléen
+    bool sunny = true;                           // Initialisation de booléen
 
     if (temp >= 0 && temp <= 30 && !sunny) {     // '!sunny' = si sunny n'est pas faux, dans ce cas là il est faux  
         printf("The weather is good!\n");
