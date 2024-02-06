@@ -21,4 +21,6 @@ You have multiple directories in this repo. First you will have to clone it usin
 
 * Step 5: You're a rocket 🚀 ! Now that you are able to write a short Makefile without even using internet or the man, you can head to the next exercices to practise even more ! ['my_ticket'](exercises/03_my_ticket.pdf) and ['my_temp'](exercices/04_my_temp.pdf) are the next exercises you should complete before starting the ```Part 2``` of your journey.
 
+* Step 6: The last thing to do before stepping into the next part is to complete the ['logical_operator'](my_learnC/part_1/04_logical_operator) course. 🚀
+
 ### Part 2
