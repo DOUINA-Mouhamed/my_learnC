@@ -19,4 +19,6 @@ int main(void)
 {
     bonjour();  // On appelle la fonction au lieu d'écrire dans le main
     bonjour();  // On peut l'appeller une nouvelle fois au lieu d'écrire
-}               // plusieurs fois la même chose
+                // plusieurs fois la même chose
+    return 0;
+}
