@@ -22,6 +22,8 @@ gcc -o prototype 2_function_prototype
 
 */
 
+#include <stdio.h>
+
 void bonjour(char name[], unsigned int age);
 
 int main(void)

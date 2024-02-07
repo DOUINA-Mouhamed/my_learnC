@@ -12,6 +12,8 @@ gcc -o tern 1_ternary_operator
 
 */
 
+#include <stdio.h>
+
 void c_value(void)
 {
     int a = 10, b = 20, c;  // On initialise 3 variables à la fois, séparées par des virgules et de même type

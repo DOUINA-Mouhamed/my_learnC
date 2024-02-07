@@ -9,6 +9,8 @@ gcc -o functions 1_functions.c
 
 */
 
+#include <stdio.h>
+
 void bonjour(void)
 {
     printf("Bonjour !\n");

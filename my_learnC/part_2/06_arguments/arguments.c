@@ -9,6 +9,8 @@ gcc -o arguments arguments.c
 
 */
 
+#include <stdio.h>
+
 void bonjour(char name[], unsigned int age)     // Les paramètres d'une fonction sont ni plus ni moins que les types de variable
 {                                               // que la fonction attend lorsqu'elle est appelée
     printf("Bonjour %s !\n", name);
