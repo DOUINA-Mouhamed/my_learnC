@@ -23,7 +23,7 @@ double square(double x)         // Le type de fonction change selon le ce que l'
 
 int main(void)
 {
-    double x = square(10);      // Grande valeur
+    double x = square(10);
     printf("%lf\n", x);
 
     return 0;                   // Retour de '0' et main est de type int
