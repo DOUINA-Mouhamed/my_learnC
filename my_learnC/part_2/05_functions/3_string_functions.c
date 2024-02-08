@@ -1,3 +1,10 @@
+/*
+
+Petite liste de fonctions de strings et leur explication.
+
+*/
+
+
 #include <stdio.h>
 #include <string.h>
  
